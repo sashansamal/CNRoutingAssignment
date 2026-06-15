@@ -1,8 +1,11 @@
 # CNRoutingAssignment
 
 This repository contains the Cisco Packet Tracer files used to complete the required router configurations, static routing, and dynamic routing tasks for the Computer Networks module.
+<p align="center">
+  <img src="cover.jpeg" width="600" alt="Network Topology">
+</p>
 
-## Student Information
+ <b>Student Information</b>
 
 | | |
 |---|---|
